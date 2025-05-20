@@ -1,0 +1,72 @@
+# depslib dependency file v1.0
+1746991145 source:c:\c++\game\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<vector>
+	<ctime>
+	<iostream>
+	"map.h"
+	"camera.h"
+	"player.h"
+	"enermy.h"
+	"constants.h"
+
+1744617474 source:c:\c++\game\game.cpp
+
+1744618429 source:c:\c++\game\commonfunc.cpp
+
+1745599144 c:\c++\game\map.h
+	<SDL.h>
+	<vector>
+	<string>
+	<map>
+
+1745622743 source:c:\c++\game\camera.cpp
+	"camera.h"
+
+1746959672 source:c:\c++\game\map.cpp
+	"map.h"
+	<fstream>
+	<SDL_image.h>
+
+1744621826 c:\c++\game\camera.h
+	<SDL.h>
+
+1746835617 source:c:\c++\game\player.cpp
+	"player.h"
+	"map.h"
+	<iostream>
+
+1747021441 c:\c++\game\player.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"constants.h"
+	"bullet.h"
+	<vector>
+	"camera.h"
+
+1746959299 c:\c++\game\constants.h
+
+1746991118 source:c:\c++\game\enermy.cpp
+	"enermy.h"
+	<iostream>
+
+1746838534 c:\c++\game\enermy.h
+	<SDL.h>
+	<SDL_image.h>
+	"constants.h"
+	"map.h"
+
+1746835830 source:c:\c++\game\bullet.cpp
+	"bullet.h"
+	"constants.h"
+	"enermy.h"
+	<iostream>
+
+1746837578 c:\c++\game\bullet.h
+	<SDL.h>
+	<vector>
+	"constants.h"
+
