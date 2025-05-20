@@ -1,0 +1,55 @@
+# depslib dependency file v1.0
+1747742849 source:c:\users\admin\documents\github\game-project\bullet (1).cpp
+	"bullet.h"
+	"constants.h"
+	"enermy.h"
+	<iostream>
+
+1747742870 c:\users\admin\documents\github\game-project\bullet.h
+	<SDL.h>
+	<vector>
+	"constants.h"
+
+1747742887 c:\users\admin\documents\github\game-project\constants.h
+
+1747742896 c:\users\admin\documents\github\game-project\enermy.h
+	<SDL.h>
+	<SDL_image.h>
+	"constants.h"
+	"map.h"
+
+1747742939 c:\users\admin\documents\github\game-project\map.h
+	<SDL.h>
+	<vector>
+	<string>
+	<map>
+
+1747742877 source:c:\users\admin\documents\github\game-project\camera.cpp
+	"camera.h"
+
+1747742882 c:\users\admin\documents\github\game-project\camera.h
+	<SDL.h>
+
+1747742892 source:c:\users\admin\documents\github\game-project\enermy.cpp
+	"enermy.h"
+	<iostream>
+
+1747742935 source:c:\users\admin\documents\github\game-project\map.cpp
+	"map.h"
+	<fstream>
+	<SDL_image.h>
+
+1747742943 source:c:\users\admin\documents\github\game-project\player.cpp
+	"player.h"
+	"map.h"
+	<iostream>
+
+1747742949 c:\users\admin\documents\github\game-project\player.h
+	<SDL.h>
+	<SDL_image.h>
+	<string>
+	"constants.h"
+	"bullet.h"
+	<vector>
+	"camera.h"
+
