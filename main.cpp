@@ -252,9 +252,7 @@ int main(int argc, char* argv[]) {
         SDL_Delay(16); // ~60 FPS
     }
 
-    for (Enemy* enemy : enemies) {
-        delete enemy;
-    }
+
 
     for (Enemy* enemy : enemies) {
         delete enemy;
